@@ -1,3 +1,4 @@
+# Importing required module
 from turtle import Screen, Turtle
 from paddle import Paddle
 from ball import Ball
